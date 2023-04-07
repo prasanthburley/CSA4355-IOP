@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+    <style>
+        h1{
+            text-align:CENTER;
+        }
+        form{
+            background-image:url("https://cloudware.ng/wp-content/uploads/2019/08/insurance-management-system.jpg");
+            font-style: italic;
+        }
+    </style>
+    <head>
+    </head>
+    <body style="text-align: center;">        
+        <form>
+            <h1>INSURANCE MANAGEMENT SYSTEM</h1>
+            <h2>ADMIN</h2>
+            <label>login:</label>
+            <input type="text"><br>
+            <label>Approveagentlogin:</label>
+            <input type="text"><br>
+            <label>Viewagentdetails:</label>
+            <input type="textbr>"><br>
+            <h2>AGENTS</h2>
+            <label>register:</label>
+            <input type="text"><br>
+            <label>login:</label>
+            <input type=" create customer"><br>
+            <label>managecustomerdetails:</label>
+            <input type="text"><br>
+            <label>managepolicydetails:</label>
+            <input type="text"><br>
+            <label>  SendSMSalert:</label>
+            <input type="number"><br>
+            <h2>USER</h2>
+            <label>login:</label>
+            <input type="text"><br>
+            <label>managepolicydetails:</label>
+            <input type="text"><Br>
+            <label>sendSMSalert:</label>
+            <input type="number"><br>
+            <button type="submit">
+                <value="submit">
+                    submit
+            </button>
+            </form>
+    </body>
+</html>
